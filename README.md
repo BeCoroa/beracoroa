@@ -153,7 +153,6 @@ status: Aprendendo a quebrar sistemas para saber protegê-los
 
 </div>
 
-> ⚠️ **Setup necessário:** Para a snake funcionar, crie o arquivo `.github/workflows/snake.yml` no repositório `beracoroa/beracoroa`. Veja a seção no final deste README.
 
 <!-- ═══════════════════════ DIVISOR ═══════════════════════ -->
 
